@@ -1,0 +1,1 @@
+Just a quite side note, after doing all my presentation and performance testing, i was slightly confused as to why the release exe now ran 20x faster than my release build in VS so depending on your computer, there might be some discrepancies.

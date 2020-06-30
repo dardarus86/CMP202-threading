@@ -1,0 +1,3 @@
+﻿  Astarsubmission.cpp
+F:\C++\CMP202\submission\astarthreaded\astarperformance\Astarsubmission.cpp(264,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  astarperformance.vcxproj -> F:\C++\CMP202\submission\astarthreaded\x64\Debug\astarperformance.exe
